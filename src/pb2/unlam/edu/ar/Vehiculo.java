@@ -1,6 +1,6 @@
 package pb2.unlam.edu.ar;
 
-public class Vehiculo {
+public abstract class Vehiculo {
     protected String patente;
     protected Double latitud;
     protected Double longitud;
